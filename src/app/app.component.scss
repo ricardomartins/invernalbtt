@@ -1,0 +1,29 @@
+.navbar {
+    background: rgba(0, 0, 0, 0.20);
+}
+
+.nav-link {
+    color: #f4f4f4;
+    cursor: pointer;
+
+    &:hover {
+        background: #f4f4f4;
+        color: #f97300;
+    }
+}
+
+.nav-link {
+    margin-right: 1em !important;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+/*header style*/
+header {
+    background-image: url('background.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}

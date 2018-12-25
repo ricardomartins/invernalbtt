@@ -1,0 +1,180 @@
+[
+    {
+        "id": "organization",
+        "name": "Organização",
+        "visible": true,
+        "entities": [
+            {
+                "name": "a",
+                "imageUrl": "assets/a.png",
+                "anchorUrl": "https://stackoverflow.com/questions/34641281/how-to-add-class-to-host-element",
+                "visible": true,
+                "columns": 2,
+                "anchorActive": true
+            },
+            {
+                "name": "b",
+                "imageUrl": "assets/b.png",
+                "anchorUrl": null,
+                "visible": true,
+                "columns": 2,
+                "anchorActive": false
+            }
+        ]
+    },
+    {
+        "id": "sponsor",
+        "name": "Patrocínio",
+        "visible": true,
+        "entities": [
+            {
+                "name": "c",
+                "imageUrl": "assets/c.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            },
+            {
+                "name": "d",
+                "imageUrl": "assets/d.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            },
+            {
+                "name": "e",
+                "imageUrl": "assets/e.png",
+                "anchorUrl": null,
+                "visible": true,
+                "columns": 2,
+                "anchorActive": false
+            },
+            {
+                "name": "f",
+                "imageUrl": "assets/f.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            }
+        ]
+    },
+    {
+        "id": "supporter",
+        "name": "Apoio",
+        "visible": true,
+        "entities": [
+            {
+                "name": "g",
+                "imageUrl": "assets/g.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            },
+            {
+                "name": "h",
+                "imageUrl": "assets/h.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            },
+            {
+                "name": "i",
+                "imageUrl": "assets/i.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            },
+            {
+                "name": "j",
+                "imageUrl": "assets/j.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            },
+            {
+                "name": "k",
+                "imageUrl": "assets/k.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            },
+            {
+                "name": "l",
+                "imageUrl": "assets/l.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            },
+            {
+                "name": "m",
+                "imageUrl": "assets/m.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            },
+            {
+                "name": "n",
+                "imageUrl": "assets/n.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            },
+            {
+                "name": "k",
+                "imageUrl": "assets/k.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            },
+            {
+                "name": "l",
+                "imageUrl": "assets/l.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            },
+            {
+                "name": "m",
+                "imageUrl": "assets/m.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            },
+            {
+                "name": "n",
+                "imageUrl": "assets/n.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            },
+            {
+                "name": "k",
+                "imageUrl": "assets/k.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            },
+            {
+                "name": "l",
+                "imageUrl": "assets/l.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            },
+            {
+                "name": "m",
+                "imageUrl": "assets/m.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            },
+            {
+                "name": "n",
+                "imageUrl": "assets/n.png",
+                "anchorUrl": null,
+                "visible": true,
+                "anchorActive": false
+            }
+        ]
+    }
+]

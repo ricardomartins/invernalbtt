@@ -1,0 +1,10 @@
+<div class="introduction ibtt-page">
+    <div class="container" >
+        <div class="row align-items-center" #introductionRow>
+            <div class="col-12 col-sm-6 col-lg-4">
+                <img [src]="config.posterUrl" class="img-fluid">
+            </div>
+            <div [innerHTML]="config.text" *ngIf="config && config.text" class="col-12 col-sm-6 col-lg-8"></div>
+        </div>
+    </div>
+</div>

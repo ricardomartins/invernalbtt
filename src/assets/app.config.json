@@ -1,0 +1,10 @@
+{
+    "introduction": true,
+    "results": false,
+    "schedule": true,
+    "regulation": true,
+    "submission": true,
+    "tracks": true,
+    "location": true,
+    "contacts": true
+}

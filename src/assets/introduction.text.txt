@@ -1,0 +1,10 @@
+<!-- Accepts Html tags -->
+<p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
+    hendrerit, nisl ultricies tincidunt iaculis, tellus nisl ultricies risus,
+    sed laoreet libero mi id ante. Etiam rutrum, enim quis tincidunt porttitor,
+    nisl urna volutpat magna, eget pretium nulla purus a justo. Duis ac mauris
+    nec sapien bibendum venenatis id vel ante. Sed ut suscipit massa. Phasellus
+    mattis ac velit ut lacinia. Mauris varius ipsum arcu, dignissim tempus urna
+    aliquam gravida. Aliquam mollis viverra risus id sagittis.
+</p>
